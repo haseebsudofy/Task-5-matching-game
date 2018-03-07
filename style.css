@@ -1,0 +1,13 @@
+body .container {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  border: 0px solid; }
+  body .container .left, body .container .right {
+    position: relative;
+    height: 600px;
+    width: 50%;
+    border: 1px solid; }
+
+/*# sourceMappingURL=style.css.map */
